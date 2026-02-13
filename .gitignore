@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Test data (optional - comment out if you want to include test images)
+test_data/
+
+# Temporary files
+*.tmp
+/tmp/
+*.log
+
+# Environment variables
+.env
+.env.local

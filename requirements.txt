@@ -1,0 +1,8 @@
+# Core dependencies
+ollama>=0.1.0
+
+# MCP Server support (optional)
+fastmcp>=0.1.0
+
+# Python version
+# Requires Python >= 3.8
