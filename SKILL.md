@@ -18,9 +18,11 @@ Führe das Python-Skript aus, um ein Bild zu verarbeiten:
 - "Was steht auf dem Bild unter ./images/rechnung.jpg?"
 - "Extrahiere den Text aus screenshot.png."
 - "Analysiere ~/Desktop/error" (Dateiendung wird automatisch gefunden)
+- Mit Custom Prompt: `python3 ~/repo/claude-skill-image-extracter/main.py bild.jpg "Extrahiere alle Zahlen"`
 
 ## Features
 - ✅ Automatische Bildformat-Erkennung
 - ✅ Custom Prompts für spezifische Fragen
 - ✅ Robuste Fehlerbehandlung
 - ✅ 100% lokal & privat
+- ✅ Null Context-Overhead (nur wenn genutzt)
